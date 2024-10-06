@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bernaldino centeio fernandes
+- 👋 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Html,css,javaScript,java,python,node.js,database,xml
 - 💞️ I’m looking to collaborate on.
